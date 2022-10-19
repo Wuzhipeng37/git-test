@@ -34,10 +34,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="GitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -82,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666149450636</updated>
       <workItem from="1666149452247" duration="769000" />
+      <workItem from="1666150654449" duration="4298000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1666149888651</created>
@@ -121,9 +128,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1271" y="192" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1666149690688" />
-    <state x="345" y="78" key="SettingsEditor" timestamp="1666149585127">
+    <state x="992" y="304" width="324" height="335" key="Github.ShareDialog" timestamp="1666162925249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1666149585127" />
+    <state x="992" y="304" width="324" height="335" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1666162925249" />
+    <state x="345" y="78" key="SettingsEditor" timestamp="1666161941535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1666161941535" />
   </component>
 </project>
